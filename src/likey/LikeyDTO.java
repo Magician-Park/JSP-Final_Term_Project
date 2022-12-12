@@ -1,3 +1,5 @@
+package likey;
+
 public class LikeyDTO {
 	private String userID;
 	private int bbsID;

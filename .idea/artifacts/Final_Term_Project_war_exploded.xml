@@ -7,6 +7,11 @@
         <element id="directory" name="classes">
           <element id="module-output" name="Final_Term_Project" />
         </element>
+        <element id="directory" name="lib">
+          <element id="file-copy" path="$PROJECT_DIR$/../../../apache-tomcat-10.0.23/lib/jakarta.servlet.jsp.jstl-2.0.0.jar" />
+          <element id="file-copy" path="$PROJECT_DIR$/../../../apache-tomcat-10.0.23/lib/jakarta.servlet.jsp.jstl-api-2.0.0.jar" />
+          <element id="library" level="project" name="mysql-connector-java-8.0" />
+        </element>
       </element>
     </root>
   </artifact>

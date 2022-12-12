@@ -10,7 +10,7 @@
 </head>
 <body>
 	<script>
-		location.href='indexex.jsp';
+		location.href='main.jsp';
 	</script>
 </body>
 </html>

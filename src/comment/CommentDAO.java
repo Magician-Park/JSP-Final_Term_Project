@@ -15,9 +15,9 @@ public class CommentDAO {
 	
 	public CommentDAO() {//mysql에 접속을 하게 해줌,자동으로 데이터베이스 커넥션이 일어남
 		try {//예외처리
-			String dbURL = "jdbc:mysql://localhost:3306/BBS?serverTimezone=UTC";
+			String dbURL = "jdbc:mysql://localhost:3306/IWASCAR";
 			String dbID="root";
-			String dbPassword="1248";
+			String dbPassword="sunsky0082";
 			Class.forName("com.mysql.jdbc.Driver");//mysql드라이버를 찾는다.
 			//드라이버는 mysql에 접속할 수 있도록 매개체 역할을 하는 하나의 라이브러리
 			conn=DriverManager.getConnection(dbURL,dbID,dbPassword);
@@ -26,13 +26,13 @@ public class CommentDAO {
 		}
 	}
 	
-	public String getDate() {//현재 서버 시간 가져오기
-		String SQL="select now()";//현재 시간을 가져오는 mysql문장
+	public String getDate() { //현재 서버 시간 가져오기
+		String SQL="select now()"; //현재 시간을 가져오는 mysql문장
 		try {
-			PreparedStatement pstmt=conn.prepareStatement(SQL);//sql문장을 실행 준비 단계로
+			PreparedStatement pstmt=conn.prepareStatement(SQL); //sql문장을 실행 준비 단계로
 			rs=pstmt.executeQuery();//실행결과 가져오기
 			if(rs.next()) {
-				return rs.getString(1);//현재 날짜 반환
+				return rs.getString(1); //현재 날짜 반환
 			}
 			
 		} catch(Exception e) {

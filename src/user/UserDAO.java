@@ -17,10 +17,10 @@ public class UserDAO {
 		try {//예외처리
 			String dbURL = "jdbc:mysql://localhost:3306/iwascar";
 			String dbID="root";
-			String dbPasseord="0508";
+			String dbPasseord="sunsky0082";
 			Class.forName("com.mysql.jdbc.Driver");//mysql드라이버를 찾는다.
 			//드라이버는 mysql에 접속할 수 있도록 매개체 역할을 하는 하나의 라이브러리
-			conn=DriverManager.getConnection("jdbc:mysql://localhost:3306/iwascar","root","0508");
+			conn=DriverManager.getConnection("jdbc:mysql://localhost:3306/iwascar","root","sunsky0082");
 		}catch(Exception e) {
 			e.printStackTrace();
 		}

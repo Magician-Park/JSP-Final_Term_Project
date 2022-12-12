@@ -39,12 +39,12 @@ a, a:hover {
 				<span class="icon-bar"></span> <span class="icon-bar"></span> <span
 					class="icon-bar"></span>
 			</button>
-			<a class="navbar-brand" href="indexex.jsp">IWASACAR</a>
+			<a class="navbar-brand" href="main.jsp">IWASACAR</a>
 		</div>
 		<div class="collapse navbar-collapse"
 			id="bs-example-navbar-collapse-1">
 			<ul class="nav navbar-nav">
-				<li><a href="main.jsp">메인</a></li>
+				<li><a href="bulletin_main.jsp">메인</a></li>
 				<li class="active"><a href="bbs.jsp">글쓰기</a></li>
 				<li><a href="bulletinboard.jsp">중형차</a></li>
 				<li><a href="bigboard.jsp">대형차</a></li>
@@ -87,7 +87,7 @@ a, a:hover {
 				<div class="alert alert-info">
 					<strong>오늘은 <%=bbs.getDate().substring(0,4) + "년 "
 						+ bbs.getDate().substring(5, 7) + "월 " + bbs.getDate().substring(8, 10) + "일"%> 입니다. </strong>
-						궁금한것은 물어보세요!	</div>
+						평소 궁금했던 점이나 나누고 싶은 의견을 자유롭게 작성해주세요! </div>
 				<table class="pull-right">
 					<tr>
 						<td><select class="form-control" name="searchField">

@@ -30,12 +30,12 @@
 %>
 <div id="news" class="big-bg">
   <header class="page-header wrapper">
-    <h1><a href="indexex.jsp"><img class="logo" src="/images/iwas.png" alt="IWASACAR"></a></h1>
+    <h1><a href="main.jsp"><img class="logo" src="/images/iwas.png" alt="IWASACAR"></a></h1>
     <nav>
       <ul class="main-nav">
         <li><a href="bulletinboard.jsp">중형차</a></li>
         <li><a href="bigboard.jsp">대형차</a></li>
-        <li><a href="main.jsp">질문하기</a></li>
+        <li><a href="bulletin_main.jsp">질문하기</a></li>
         <%
           if(userID==null){//로그인이 되어 있지 않다면
         %>

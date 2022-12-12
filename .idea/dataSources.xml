@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="DataSourceManagerImpl" format="xml" multifile-model="true">
-    <data-source source="LOCAL" name="JSPBookDB@localhost" uuid="42bf3319-58bf-47c2-b8e8-351bb17319b8">
+    <data-source source="LOCAL" name="IWASCAR@localhost" uuid="ba02b781-81e9-4d5b-afb7-828540b2615b">
       <driver-ref>mysql.8</driver-ref>
       <synchronize>true</synchronize>
       <jdbc-driver>com.mysql.cj.jdbc.Driver</jdbc-driver>
-      <jdbc-url>jdbc:mysql://localhost:3306/JSPBookDB</jdbc-url>
+      <jdbc-url>jdbc:mysql://localhost:3306/IWASCAR</jdbc-url>
       <working-dir>$ProjectFileDir$</working-dir>
     </data-source>
   </component>
