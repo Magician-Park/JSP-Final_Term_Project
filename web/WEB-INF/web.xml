@@ -5,6 +5,6 @@
          version="4.0">
     <error-page>
         <exception-type>java.lang.Exception</exception-type>
-        <location>/index.jsp</location>
+        <location>/index.html</location>
     </error-page>
 </web-app>
