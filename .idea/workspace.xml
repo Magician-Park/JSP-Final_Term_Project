@@ -6,59 +6,21 @@
     </artifacts-to-build>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3516de0c-275c-4d27-ae9d-7a572ab6e29d" name="Changes" comment="first commit">
-      <change beforePath="$PROJECT_DIR$/.idea/artifacts/Final_Term_Project_war_exploded.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/artifacts/Final_Term_Project_war_exploded.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/dataSources.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/webContexts.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/webContexts.xml" afterDir="false" />
+    <list default="true" id="3516de0c-275c-4d27-ae9d-7a572ab6e29d" name="Changes" comment="Fifth commit">
+      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Final_Term_Project.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Final_Term_Project.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/SQLtest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/bbs/BbsDAO.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/bbs/BbsDAO.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/comment/CommentDAO.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/comment/CommentDAO.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/likey/LikeyDAO.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/likey/LikeyDAO.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/likey/LikeyDTO.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/likey/LikeyDTO.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/user/UserDAO.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/user/UserDAO.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/Exercise/ch11/errorPage.jsp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/JSPBook/addProduct.jsp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/JSPBook/errorPage.jsp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/JSPBook/fileupload01_process.jsp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/JSPBook/isErrorPage.jsp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/JSPBook/menu.jsp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/JSPBook/validation.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/JSPBook/validation01.jsp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/Register.html" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/web/WEB-INF/web.xml" beforeDir="false" afterPath="$PROJECT_DIR$/web/WEB-INF/web.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/auth.jsp" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/web/bbs.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/web/bbs.jsp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/bigboard-01.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/web/bigboard-01.jsp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/bigboard-02.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/web/bigboard-02.jsp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/bigboard-03.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/web/bigboard-03.jsp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/bigboard-04.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/web/bigboard-04.jsp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/bigboard-05.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/web/bigboard-05.jsp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/bigboard-06.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/web/bigboard-06.jsp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/bigboard.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/web/bigboard.jsp" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/web/bulletin_main.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/web/bulletin_main.jsp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/bulletinboard-01.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/web/bulletinboard-01.jsp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/bulletinboard-02.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/web/bulletinboard-02.jsp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/bulletinboard-03.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/web/bulletinboard-03.jsp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/bulletinboard-04.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/web/bulletinboard-04.jsp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/bulletinboard-05.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/web/bulletinboard-05.jsp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/bulletinboard-06.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/web/bulletinboard-06.jsp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/bulletinboard-07.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/web/bulletinboard-07.jsp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/bulletinboard.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/web/bulletinboard.jsp" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/web/commentUpdate.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/web/commentUpdate.jsp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/example.jsp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/form.jsp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/index.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/web/index.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/web/index.jsp" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/web/join.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/web/join.jsp" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/web/login.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/web/login.jsp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/logins.html" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/web/main.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/web/main.jsp" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/web/searchbbs.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/web/searchbbs.jsp" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/web/update.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/web/update.jsp" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/web/userUpdate.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/web/userUpdate.jsp" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/web/view.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/web/view.jsp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/welcome.jsp" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/web/write.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/web/write.jsp" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -98,24 +60,24 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "D:/Java/Java_workspace/WebServerProgramming/Final_Term_Project",
-    "project.structure.last.edited": "문제",
-    "project.structure.proportion": "0.15",
-    "project.structure.side.proportion": "0.2",
-    "settings.editor.selected.configurable": "File.Encoding"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/Java/Java_workspace/WebServerProgramming/Final_Term_Project&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;문제&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;File.Encoding&quot;
   },
-  "keyToStringList": {
-    "DatabaseDriversLRU": [
-      "mysql"
+  &quot;keyToStringList&quot;: {
+    &quot;DatabaseDriversLRU&quot;: [
+      &quot;mysql&quot;
     ]
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="D:\Java\Java_workspace\WebServerProgramming\Final_Term_Project" />
@@ -253,6 +215,8 @@
       <workItem from="1670762992395" duration="9690000" />
       <workItem from="1670818988449" duration="7212000" />
       <workItem from="1670848839070" duration="5022000" />
+      <workItem from="1670854605426" duration="2977000" />
+      <workItem from="1670897831672" duration="5036000" />
     </task>
     <task id="LOCAL-00001" summary="first commit">
       <created>1667526796254</created>
@@ -261,7 +225,35 @@
       <option name="project" value="LOCAL" />
       <updated>1667526796255</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="second commit">
+      <created>1670854698799</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1670854698799</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Third commit">
+      <created>1670855001829</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1670855001829</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Fourth commit">
+      <created>1670855829010</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1670855829010</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Fifth commit">
+      <created>1670855947991</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1670855947991</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -280,7 +272,11 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="first commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="first commit" />
+    <MESSAGE value="second commit" />
+    <MESSAGE value="Third commit" />
+    <MESSAGE value="Fourth commit" />
+    <MESSAGE value="Fifth commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="Fifth commit" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />

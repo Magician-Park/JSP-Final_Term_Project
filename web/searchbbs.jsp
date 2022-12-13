@@ -56,7 +56,7 @@ a, a:hover {
 			id="bs-example-navbar-collapse-1">
 			<ul class="nav navbar-nav">
 				<li><a href="bulletin_main.jsp">메인</a></li>
-				<li class="active"><a href="bbs.jsp">글쓰기</a></li>
+				<li class="active"><a href="bbs.jsp">게시판</a></li>
 				<li><a href="bulletinboard.jsp">중형차</a></li>
 				<li><a href="bigboard.jsp">대형차</a></li>
 			</ul>

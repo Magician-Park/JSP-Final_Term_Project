@@ -54,7 +54,7 @@ pageEncoding="UTF-8"%>
             <div class="home-content wrapper">
                 <h2 class="page-title">We'll Make Revolution</h2>
                 <p>차를 잘 모르겠다면?</p>
-                <a class="button" href="main.jsp">질문 글쓰기</a>
+                <a class="button" href="bulletin_main.jsp">질문 글쓰기</a>
             </div>
         </div>
 
